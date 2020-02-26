@@ -1,0 +1,9 @@
+  
+svg {
+    background-color: rgb(230,230,230);
+}
+svg polygon {
+    /*fill: url(#graphGradient);*/
+    stroke:black;
+    stroke-width:1;
+}
